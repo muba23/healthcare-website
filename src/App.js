@@ -7,6 +7,7 @@ import Header from './Pages/Home/Header/Header';
 import Banner from './Pages/Home/Banner/Banner';
 import Footer from './Pages/Home/Footer/Footer';
 import Services from './Pages/Home/Services/Services';
+import Login from './Pages/Login/Login';
 
 function App() {
   return (
@@ -23,6 +24,9 @@ function App() {
           </Route>
           <Route path="/services">
             <Services></Services>
+          </Route>
+          <Route path="/login">
+            <Login></Login>
           </Route>
           <Route path="*">
             <NotFound></NotFound>

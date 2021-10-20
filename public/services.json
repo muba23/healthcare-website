@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Specialty surgical services",
+      "description": "We offer general and specialty surgical services",
+      "img": "https://i.ibb.co/XDCq3XJ/img-1.png"
+    },
+    {
+      "id": 2,
+      "name": "prescription services",
+      "description": "We offer prescription services- in case you need support",
+      "img": "https://i.ibb.co/ryKfcjc/img-5.png"
+    },
+    {
+      "id": 3,
+      "name": "blood services",
+      "description": "We have special blood testing services to test your blood",
+      "img": "https://i.ibb.co/r0y9SZ2/img-7.png"
+    },
+    {
+      "id": 4,
+      "name": "x ray/radiology services",
+      "description": "We have x ray and radiology services with a very low cost",
+      "img": "https://i.ibb.co/Jnv9Qx6/img-6.png"
+    },
+    {
+      "id": 5,
+      "name": "laboratory services",
+      "description": "We offer special laboratory services",
+      "img": "https://i.ibb.co/LvhmK27/img-2.png"
+    },
+    {
+      "id": 6,
+      "name": "dental services",
+      "description": "We offer dental services under professional dentists",
+      "img": "https://i.ibb.co/j5Y3f78/img-9.png"
+    },
+    {
+      "id": 7,
+      "name": "Hospice care",
+      "description": "We offer dental services under professional dentists",
+      "img": "https://i.ibb.co/hXnPwXC/img-3.png"
+    },
+    {
+      "id": 8,
+      "name": "infectious disease clinics",
+      "description": "We offer dental services under professional dentists",
+      "img": "https://i.ibb.co/g37sVVk/img-8.png"
+    },
+    {
+      "id": 9,
+      "name": "mental health and drug treatment",
+      "description": "We offer mental health services",
+      "img": "https://i.ibb.co/LZYm0CP/img-4.png"
+    },
+    {
+      "id": 10,
+      "name": "CT scan services",
+      "description": "We offer CT scan services under",
+      "img": "https://i.ibb.co/PYxDnkH/Conceptual-photo-of-a-hospital-worker-cleaning-the-ward.jpg"
+    }
+  ]

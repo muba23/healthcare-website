@@ -15,7 +15,7 @@ const Header = () => {
         <Nav className="me-auto navItems">
             <NavLink to="/home">Home</NavLink>
             <NavLink to="/services">Services</NavLink>
-            <NavLink to="/pricing">Pricing</NavLink>
+            <NavLink to="/login">Login</NavLink>
        </Nav>
        <Navbar.Text>
         Signed in as: <a href="#login">Mark Otto</a>
