@@ -7,17 +7,8 @@ initializeAuthentication();
 const useFirebase = () =>{
     const [user, setUser] = useState({});
     const [isLoading, setIsLoading] = useState(true);
-    const [email, setEmail] = useState("");
-    const [password, setPassword] = useState("");
 
     const auth = getAuth();
-
-    const createUserWithEmailAndPassword = () =>{
-        createUserWithEmailAndPassword(auth, email, password)
-           .then(result =>{
-               setUser(result.user);
-           })
-    }
 
     const signInUsingGoogle = () =>{
         setIsLoading(true);
