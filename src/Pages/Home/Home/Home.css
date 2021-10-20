@@ -1,0 +1,30 @@
+.home{
+    margin-top: 20px;
+}
+.carousel-container{
+    margin-top: 30px;
+}
+.carousel {
+    width: 75%;
+    margin: auto;
+}
+
+.caption{
+    text-align:start;
+    background: rgba(43, 39, 39, 0.671); 
+    color: #fffefe;
+    padding: 40px;
+    padding-top: 40px;
+}
+
+.home-about{
+    background-image: url('https://image.freepik.com/free-photo/doctor-with-stethoscope-hands-hospital-background_1423-1.jpg');
+    background-repeat: no-repeat;
+}
+.home-para{
+    text-align:start;
+    background: rgba(44, 44, 44, 0.671); 
+    color: #fffefe;
+    padding: 40px;
+    padding-top: 40px;
+}

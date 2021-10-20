@@ -1,0 +1,10 @@
+.about{
+    background-color: rgba(241, 234, 227, 0.89);
+    padding: 20px;
+    margin: 20px 0px;
+}
+.doctors img{
+    width: 350px;
+    height: 350px;
+    margin: 20px;
+}
